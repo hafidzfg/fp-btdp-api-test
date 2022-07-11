@@ -1,4 +1,9 @@
 # Final Project API Testing Automation with Katalon
+API Testing Automation as a submission for Hacktiv8's QA Automation with Katalon Final Project. <br>
+This repository is a part of a 3-part final project. <br>
+Be sure my other submissions: <br>
+- [E-Commerce Web Automation Testing](https://github.com/hafidzfg/fp-btdp-mobile-testing) 
+- [Mobile Demo Bank App Automation Testing](https://github.com/hafidzfg/fp-btdp-web-testing)
 
 ## Made by:
 
@@ -10,7 +15,11 @@ ParticipantID: **KSAT006ONL008**
 - Tools: Katalon Studio
 
 ## Documentation
-For detailed documentation, please access the following test plan documents: [Test Plan API Testing]()
+For detailed documentation, please access the following test plan document: [Test Plan API Testing]()
+
+## Requirements
+- Katalon Studio
+- Java 1.8
 
 ## Test Cases
 - GET APIs:
@@ -22,7 +31,14 @@ For detailed documentation, please access the following test plan documents: [Te
 - PATCH APIs:
 
 ## Test Suites
-- GET APIs
-- POST APIs
+- GET APIs: <br>
+Contains all 'GET' APIs related test cases (58 test cases)
+- POST APIs: <br>
+Contains all 'POST' APIs related test cases (65 test cases)
 - Update APIs: <br>
-Containing all `Put` `Patch` and `Delete` APIs
+Containing all `PUT` `PATCH` and `DELETE` APIs related test cases (xx test cases)
+
+## Concepts implemented
+- Data driven testing
+- Common APIs interaction method
+- Sequential test case execution
