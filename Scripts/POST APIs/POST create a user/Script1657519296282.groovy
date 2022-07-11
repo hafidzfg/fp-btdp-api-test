@@ -38,7 +38,7 @@ WS.verifyElementPropertyValue(post_response, 'job', job)
 WS.verifyElementPropertyValue(post_response, 'id', result.id)
 println(result.id)
 
-// verify 'name' response with datafile request body
+// verify 'createdAt' response
 WS.verifyElementPropertyValue(post_response, 'createdAt', result.createdAt)
 println(result.createdAt)
 

@@ -5,10 +5,19 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>a6278995-28f3-4860-9f57-d6f51c6cffa5</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>bd9de72d-e109-47c5-b403-2543f7e2b805</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/GET Data/Resource ID not found data</testDataId>
+   </testDataLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>bd9de72d-e109-47c5-b403-2543f7e2b805</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>resourceId</value>
       <variableId>6f78fc6f-6f0e-4fb9-9e83-8138e2c834c0</variableId>
    </variableLinks>
    <variable>
