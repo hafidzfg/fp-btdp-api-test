@@ -1,7 +1,7 @@
 # Final Project API Testing Automation with Katalon
 API Testing Automation as a submission for Hacktiv8's QA Automation with Katalon Final Project. <br>
 This repository is a part of a 3-part final project. <br>
-Be sure my other submissions: <br>
+Be sure to check out my other submissions: <br>
 - [E-Commerce Web Automation Testing](https://github.com/hafidzfg/fp-btdp-mobile-testing) 
 - [Mobile Demo Bank App Automation Testing](https://github.com/hafidzfg/fp-btdp-web-testing)
 
@@ -12,7 +12,7 @@ ParticipantID: **KSAT006ONL008**
 
 ## Resource:
 - APIs by: [Reqres.in](https://reqres.in/)
-- Tools: Katalon Studio
+- Tools: Katalon Studio\Groovy
 
 ## Documentation
 For detailed documentation, please access the following test plan document: [Test Plan API Testing]()
