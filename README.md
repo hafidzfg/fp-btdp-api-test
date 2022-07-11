@@ -25,6 +25,7 @@ For detailed documentation, please access the following test plan document: [Tes
 - Data driven testing
 - Common APIs interaction method
 - Sequential test case execution
+- Manual & script test case creation
 
 ## Test Cases
 - GET APIs: 7 individual test cases, 58 test cases if iterated (data driven)
