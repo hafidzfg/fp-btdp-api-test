@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case ini merupakan data driven test case yang melakukan iterasi 12 endpoint detail user berdasarkan userId</description>
+   <name>GET a single user not found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2241e601-1e98-43f7-bddf-c627971a7724</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f4d62027-7b25-437b-9da7-0ae26e164983</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/User ID not found data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f4d62027-7b25-437b-9da7-0ae26e164983</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>userId</value>
+      <variableId>04873411-436f-4863-a225-198a0a375a3e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData(null).getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>04873411-436f-4863-a225-198a0a375a3e</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+</TestCaseEntity>
