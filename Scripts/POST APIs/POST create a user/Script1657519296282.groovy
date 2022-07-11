@@ -14,11 +14,31 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+
+import groovy.json.JsonSlurper
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-post_response = WS.sendRequest(findTestObject('POST/POST Create User', [('name') : findTestData('POST Data/POST Create user data').getValue(
-                2, 1), ('job') : findTestData('POST Data/POST Create user data').getValue(3, 1)]))
+post_response = WS.sendRequest(findTestObject('POST/POST Create User', [('name') : name, ('job') : job]))
 
 WS.verifyResponseStatusCode(post_response, 201)
+
+// define new slurper object to parse response
+def slurper = new JsonSlurper()
+// parse response and store as a Map object
+Map result = slurper.parseText(post_response.getResponseBodyContent())
+
+// verify 'name' response with datafile request body
+WS.verifyElementPropertyValue(post_response, 'name', name)
+
+// verify 'job' response with datafile request body
+WS.verifyElementPropertyValue(post_response, 'job', job)
+
+// verify 'id' response with datafile request body
+WS.verifyElementPropertyValue(post_response, 'id', result.id)
+println(result.id)
+
+// verify 'name' response with datafile request body
+WS.verifyElementPropertyValue(post_response, 'createdAt', result.createdAt)
+println(result.createdAt)
 
