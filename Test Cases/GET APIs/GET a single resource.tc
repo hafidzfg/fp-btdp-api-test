@@ -7,7 +7,7 @@
    <testCaseGuid>6e4b2594-16ab-445b-a580-925605b18579</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>53b94e04-9c5c-483f-823e-984a7e1efc36</id>
+      <id>0cf98a99-b6a4-4a66-bd55-ad4db46ae048</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
@@ -15,7 +15,7 @@
       <testDataId>Data Files/Resource ID Data</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>53b94e04-9c5c-483f-823e-984a7e1efc36</testDataLinkId>
+      <testDataLinkId>0cf98a99-b6a4-4a66-bd55-ad4db46ae048</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>resourceId</value>
       <variableId>54932f53-c640-45e7-afed-ae3b8f5bc82d</variableId>
