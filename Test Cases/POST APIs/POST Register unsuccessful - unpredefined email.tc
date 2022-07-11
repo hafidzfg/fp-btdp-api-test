@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>register with valid (predefined) email and not empty password</description>
+   <name>POST Register unsuccessful - unpredefined email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef032e1a-da35-473e-8c4a-4e26855d43c0</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>9ed5d954-34b8-4db2-981b-86cc665e116b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/POST Data/POST Register data with random email</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>9ed5d954-34b8-4db2-981b-86cc665e116b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>0702fe02-69ba-439d-87ad-bf7dcbd00730</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>9ed5d954-34b8-4db2-981b-86cc665e116b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>8735742b-ac41-4ffb-b953-f9793cca899a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0702fe02-69ba-439d-87ad-bf7dcbd00730</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8735742b-ac41-4ffb-b953-f9793cca899a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
