@@ -6,6 +6,7 @@
    <UUID>1ac0c8c3-eb30-4592-add9-d42913bb929b</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\btdp\bootcamp\katalon\FINAL PROJECTS\finalproject-btdp-api\finalproject-btdp-api.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
