@@ -12,7 +12,7 @@
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/User ID Data for GET APIs (1)</testDataId>
+      <testDataId>Data Files/User ID Data</testDataId>
    </testDataLinks>
    <variableLinks>
       <testDataLinkId>c5e0643c-aca2-4101-b854-e8e5087110ef</testDataLinkId>

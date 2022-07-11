@@ -23,6 +23,8 @@ import org.openqa.selenium.Keys as Keys
 
 get_res = WS.sendRequestAndVerify(findTestObject('GET/GET a single user', [('userId') : userId]))
 
+WS.verifyResponseStatusCode(get_res, 200)
+
 def slurper = new JsonSlurper()
 
 Map result = slurper.parseText(get_res.getResponseBodyContent())
