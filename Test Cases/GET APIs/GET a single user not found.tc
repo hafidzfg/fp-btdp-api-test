@@ -5,19 +5,10 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>2241e601-1e98-43f7-bddf-c627971a7724</testCaseGuid>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>f4d62027-7b25-437b-9da7-0ae26e164983</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/User ID not found data</testDataId>
-   </testDataLinks>
    <variableLinks>
-      <testDataLinkId>f4d62027-7b25-437b-9da7-0ae26e164983</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>userId</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>04873411-436f-4863-a225-198a0a375a3e</variableId>
    </variableLinks>
    <variable>

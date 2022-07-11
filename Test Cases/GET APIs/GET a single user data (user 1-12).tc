@@ -5,19 +5,10 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>d4b0fa49-38bd-435f-b9cd-d0aa654ef946</testCaseGuid>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>c5e0643c-aca2-4101-b854-e8e5087110ef</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/User ID Data</testDataId>
-   </testDataLinks>
    <variableLinks>
-      <testDataLinkId>c5e0643c-aca2-4101-b854-e8e5087110ef</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>userId</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>3b866da3-72a0-43eb-b6a7-460dd8dd238c</variableId>
    </variableLinks>
    <variable>
