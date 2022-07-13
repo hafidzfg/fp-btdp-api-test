@@ -12,14 +12,13 @@ ParticipantID: **KSAT006ONL008**
 
 ## Resources:
 - APIs by: [Reqres.in](https://reqres.in/)
-- Tools: Katalon Studio/Groovy
+
+## Test Environment
+- Katalon Studio 8.3.5 build 208/Groovy
+- Java 1.8
 
 ## Documentation
-For detailed documentation, please access the following test plan document: [Test Plan API Testing](.\documentation\API_Testing_Reqresin_Test_Plan.docx)
-
-## Requirements
-- Katalon Studio
-- Java 1.8
+- [Test Plan API Testing](.\documentation\API_Testing_Reqresin_Test_Plan.docx)
 
 ## Concepts implemented
 - Data driven testing
