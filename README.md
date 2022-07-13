@@ -18,7 +18,7 @@ ParticipantID: **KSAT006ONL008**
 - Java 1.8
 
 ## Documentation
-- [Test Plan API Testing](.\documentation\API_Testing_Reqresin_Test_Plan.docx)
+- [Test Plan API Testing](/documentation/API_Testing_Reqresin_Test_Plan.docx)
 
 ## Concepts implemented
 - Data driven testing
