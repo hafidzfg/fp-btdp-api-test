@@ -1,6 +1,6 @@
 # Final Project API Testing Automation with Katalon
 API Testing Automation as a submission for Hacktiv8's QA Automation with Katalon Final Project. <br>
-This repository is a part of a 3-part final project. <br>
+This repository is (2/3) of a 3-part final project. <br>
 Be sure to check out my other submissions: <br>
 - [E-Commerce Web Automation Testing](https://github.com/hafidzfg/fp-btdp-mobile-testing) 
 - [Mobile Demo Bank App Automation Testing](https://github.com/hafidzfg/fp-btdp-web-testing)
