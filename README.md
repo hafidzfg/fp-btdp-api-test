@@ -19,6 +19,7 @@ ParticipantID: **KSAT006ONL008**
 
 ## Documentation
 - [Test Plan API Testing](/documentation/API_Testing_Reqresin_Test_Plan.docx)
+- [Test Scenario API Testing](/documentation/API_Automation_Test_Scenario.xlsx)
 
 ## Concepts implemented
 - Data driven testing
