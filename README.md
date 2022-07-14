@@ -40,3 +40,6 @@ Contains all `GET` APIs related test cases (58 test cases)
 Contains all `POST` APIs related test cases (65 test cases)
 - Update APIs: <br>
 Containing all `PUT` `PATCH` and `DELETE` APIs related test cases (25 test cases)
+
+## Additional notes
+Test case with JIRA integration is `GT 006`
