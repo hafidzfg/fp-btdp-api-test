@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case ini merupakan data driven test case yang melakukan iterasi 12 endpoint detail user berdasarkan userId</description>
+   <name>GT 003 GET a single user data (user 1-12)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4b0fa49-38bd-435f-b9cd-d0aa654ef946</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c56a41cf-f8ca-4029-9f51-c4da17855d8c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/GET Data/User ID Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>c56a41cf-f8ca-4029-9f51-c4da17855d8c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>userId</value>
+      <variableId>3b866da3-72a0-43eb-b6a7-460dd8dd238c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData(null).getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>3b866da3-72a0-43eb-b6a7-460dd8dd238c</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+</TestCaseEntity>

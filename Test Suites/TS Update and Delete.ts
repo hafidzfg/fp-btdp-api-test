@@ -15,7 +15,7 @@
       <guid>d18754f9-2403-4d47-9eb4-54e54f7076e3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Update APIs/PATCH Update User</testCaseId>
+      <testCaseId>Test Cases/Update APIs/UP 001 PATCH Update User</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -40,7 +40,7 @@
       <guid>43e8ebe4-3b6f-4feb-8543-1193d1f24463</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Update APIs/PUT Update User</testCaseId>
+      <testCaseId>Test Cases/Update APIs/UP 002 PUT Update User</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -65,7 +65,7 @@
       <guid>e3fab575-f3d8-47a9-9a99-dc62ead2358b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/DELETE APIs/DELETE a user</testCaseId>
+      <testCaseId>Test Cases/DELETE APIs/DL 001 DELETE a user</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

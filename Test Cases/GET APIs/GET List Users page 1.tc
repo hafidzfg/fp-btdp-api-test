@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Summary: Hafidz Firmansyah G - TC GET API
-Description: </description>
-   <name>GET List Users page 1</name>
-   <tag>jira-integration</tag>
-   <comment></comment>
-   <testCaseGuid>44f4f843-d541-4ed9-92dc-6858de1beeea</testCaseGuid>
-</TestCaseEntity>

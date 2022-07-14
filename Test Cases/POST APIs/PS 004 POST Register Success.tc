@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>register with valid (predefined) email and not empty password</description>
+   <name>PS 004 POST Register Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a8cc58a-e25f-4f04-a6b4-3c5b6c0b564c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6c3e975a-9816-4041-b6e5-7f12928cd27d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/POST Data/POST Register data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6c3e975a-9816-4041-b6e5-7f12928cd27d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>64e30e1f-8385-4d91-a298-9c8aefd9ad50</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6c3e975a-9816-4041-b6e5-7f12928cd27d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>ce4d8454-9eda-467b-8c0d-c407be4029fe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6c3e975a-9816-4041-b6e5-7f12928cd27d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>id</value>
+      <variableId>27d9ff4f-ef1b-4899-a066-f031ac43c4d9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>64e30e1f-8385-4d91-a298-9c8aefd9ad50</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ce4d8454-9eda-467b-8c0d-c407be4029fe</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>27d9ff4f-ef1b-4899-a066-f031ac43c4d9</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>

@@ -15,7 +15,7 @@
       <guid>5b809059-111c-466f-8c01-a69b35c3be6a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/POST APIs/POST create a user</testCaseId>
+      <testCaseId>Test Cases/POST APIs/PS 001 POST create a user</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -34,21 +34,21 @@
       <guid>83b407b7-4b01-48c0-ab2e-6f5af5231b2b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/POST APIs/POST Login Successful</testCaseId>
+      <testCaseId>Test Cases/POST APIs/PS 002 POST Login Successful</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>feda6f81-7b6a-487f-9008-16f995b636fa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/POST APIs/POST Login Unsuccessful</testCaseId>
+      <testCaseId>Test Cases/POST APIs/PS 003 POST Login Unsuccessful</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>ee68966c-689a-4f57-b712-94c19d1641cb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/POST APIs/POST Register Success</testCaseId>
+      <testCaseId>Test Cases/POST APIs/PS 004 POST Register Success</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -73,7 +73,7 @@
       <guid>f050aac0-0d44-471d-aa67-5f6eecc29ee4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/POST APIs/POST Register unsuccessful - empty email</testCaseId>
+      <testCaseId>Test Cases/POST APIs/PS 005 POST Register unsuccessful - empty email</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -98,7 +98,7 @@
       <guid>0751f6d3-5b8d-4a89-b9b8-82c8a140dde0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/POST APIs/POST Register unsuccessful - empty password</testCaseId>
+      <testCaseId>Test Cases/POST APIs/PS 006 POST Register unsuccessful - empty password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -123,7 +123,7 @@
       <guid>cee08bcf-3772-44fc-8bdb-c0994fb0ce82</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/POST APIs/POST Register unsuccessful - unpredefined email</testCaseId>
+      <testCaseId>Test Cases/POST APIs/PS 007 POST Register unsuccessful - unpredefined email</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

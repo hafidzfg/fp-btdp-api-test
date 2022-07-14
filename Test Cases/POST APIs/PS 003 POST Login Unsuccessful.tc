@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PS 003 POST Login Unsuccessful</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>248e6d64-7d5f-45c1-ad0b-96c475d98759</testCaseGuid>
+</TestCaseEntity>
