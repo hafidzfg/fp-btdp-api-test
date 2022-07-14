@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description>Summary: Hafidz Firmansyah G - TC GET API
 Description: </description>
-   <name>GT 007 Users page 2</name>
+   <name>GT 007 GET List Users page 2</name>
    <tag>jira-integration</tag>
    <integratedEntity>
       <productName>JIRA</productName>
