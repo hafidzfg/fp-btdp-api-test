@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Summary: Hafidz Firmansyah G - TC GET API
-Description: </description>
+   <description></description>
    <name>GT 007 GET List Users page 2</name>
-   <tag>jira-integration</tag>
+   <tag></tag>
    <integratedEntity>
       <productName>JIRA</productName>
       <properties>
