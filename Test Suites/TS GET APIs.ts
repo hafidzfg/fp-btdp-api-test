@@ -81,7 +81,7 @@
       <guid>8bcbca6a-c5d5-42cf-a1b0-fd9ad649b2af</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/GET APIs/GT 007 Users page 2</testCaseId>
+      <testCaseId>Test Cases/GET APIs/GT 007 GET List Users page 2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
